@@ -1,0 +1,24 @@
+# Ignore all class files
+*.class
+
+# Ignore backup and temp files
+*~
+*.swp
+*.bak
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.iml
+
+# Ignore build directories
+bin/
+out/
+build/
